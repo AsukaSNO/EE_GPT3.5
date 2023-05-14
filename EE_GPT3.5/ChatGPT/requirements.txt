@@ -1,0 +1,5 @@
+openai
+urllib3==1.25.11
+numpy
+tqdm
+logger
